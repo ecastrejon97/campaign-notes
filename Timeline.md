@@ -1,0 +1,8 @@
+- Around 8am: Damien and the crew depart the mountain
+- Around 10am: Zola comes into town
+- Around 11am: Earthquake
+- 3pm: Greer and Warner head to hospital
+- 5pm: Greer and Warner leave hospital
+- 7pm: Bat enters the Broken Wand
+- 9pm: Commotion in the Broken Wand
+- 11pm: Greer goes into labor
