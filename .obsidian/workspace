@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "526726775ff1e22a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c77acbd580d0e96",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "51d6377643448b1c"
+      },
+      {
+        "id": "de5ad7cdf2abd7fa",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "51d6377643448b1c"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95794be4e6c7d314",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2afbb50a47f6aae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d89ac46c5572051",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e0d9bc1e6afd558",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbbdd4516afd6ec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a53ca1432e84f72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43ae3ca5154c180c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "de5ad7cdf2abd7fa",
+  "lastOpenFiles": [
+    "Campaign-Notes/README.md",
+    "Campaign-Notes/Item List.md",
+    "Campaign-Notes/Timeline.md",
+    "README.md",
+    "Timeline.md",
+    "Day 6 Notes.md",
+    "Item List.md",
+    "Day 5 Notes.md",
+    "Day 4 Notes.md",
+    "Day 3 Notes.md"
+  ]
+}
